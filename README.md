@@ -21,7 +21,7 @@ Check out my **portfolio website**: [anjali-portfolio](https://anjali-portfolio-
 ## 📫 Connect with Me
 - LinkedIn: [Anjali Shah](https://www.linkedin.com/in/anjali-shah-77b6a625b/)
 - GitHub: [Anjalishah43](https://github.com/Anjalishah43)
-- Email: [your-email@example.com](mailto:anjali.shah.cs.2022@mitmerrut.ac.in)
+- Email: [contect on email](mailto:anjali.shah.cs.2022@mitmerrut.ac.in)
 
 ---
 ✨ _"Code. Learn. Innovate."_ ✨
