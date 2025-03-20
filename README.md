@@ -16,7 +16,6 @@ I am passionate about **technology, problem-solving, and continuous learning**. 
 ## 🌍 Portfolio Website
 Check out my **portfolio website**: [anjali-portfolio](https://anjali-portfolio-three.vercel.app/)
 
-[![Portfolio Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://anjali-portfolio-three.vercel.app/)
 
 ## 📫 Connect with Me
 - LinkedIn: [Anjali Shah](https://www.linkedin.com/in/anjali-shah-77b6a625b/)
