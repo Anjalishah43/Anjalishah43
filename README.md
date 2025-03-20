@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Anjali Shah! 👋
 
-<!--
-**Anjalishah43/Anjalishah43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
 
-Here are some ideas to get you started:
+I am **Anjali Shah**, currently studying at **Meerut Institute of Technology**, pursuing a **B.Tech in Computer Science and Engineering**. My short-term goal is to become a **skilled software engineer**, while my long-term goal is to be a **respected and self-dependent individual** in society.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about **technology, problem-solving, and continuous learning**. With dedication and hard work, I strive to make a meaningful impact in the **tech industry** and contribute to the betterment of my **community**.
+
+## 🚀 Skills & Technologies
+- Programming: Java, JavaScript, Python
+- Web Development: HTML, CSS, Bootstrap, React.js
+- Backend: Node.js, Spring Boot, MySQL
+- Tools: Git, GitHub, IntelliJ IDEA, VS Code
+- Others: Data Structures & Algorithms, Problem-Solving
+
+## 🌍 Portfolio Website
+Check out my **portfolio website**: [anjali-portfolio](https://anjali-portfolio-three.vercel.app/)
+
+[![Portfolio Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://anjali-portfolio-three.vercel.app/)
+
+## 📫 Connect with Me
+- LinkedIn: [Anjali Shah](https://www.linkedin.com/in/anjali-shah-77b6a625b/)
+- GitHub: [Anjalishah43](https://github.com/Anjalishah43)
+- Email: [your-email@example.com](mailto:anjali.shah.cs.2022@mitmerrut.ac.in)
+
+---
+✨ _"Code. Learn. Innovate."_ ✨
